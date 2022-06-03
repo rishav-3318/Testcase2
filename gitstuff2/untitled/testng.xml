@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="C:/Users/rkumarrai/IdeaProjects/Selenium/untitled/testng.xml">
+        <classes>
+            <class name="Testng.CarLoan"/>
+            <class name="Testng.HomeLoan"/>
+            <class name="Testng.PersonelLoan"/>
+        </classes>
+    </test>
+    <test name="Demo Test">
+        <classes>
+            <class name="Testng.TestngDay1"/>
+        </classes>
+            </test>
+</suite>
